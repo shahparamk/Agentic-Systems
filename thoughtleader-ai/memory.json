@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "topic": "Why every developer needs to learn prompt engineering",
+      "timestamp": "2026-04-09T04:20:41.547072",
+      "score": 72,
+      "rewrote": false,
+      "filename": "Why_every_developer_needs_to_learn_prompt_engineer_linkedin_post",
+      "post_preview": "**The future of development is writing a new script - yours**\n\nIn the next five years, the skills th..."
+    }
+  ],
+  "topic_scores": {
+    "Why every developer needs to learn prompt engineering": {
+      "best_score": 72,
+      "runs": 1
+    }
+  },
+  "total_runs": 1
+}
