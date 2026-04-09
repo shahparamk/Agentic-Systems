@@ -1,7 +1,4 @@
 # ThoughtLeader AI
-### Agentic LinkedIn & Tech Blog Content Pipeline
-**IS 7200 — Building Agentic Systems | Northeastern University | Param Shah**
-
 ---
 
 ## Overview
