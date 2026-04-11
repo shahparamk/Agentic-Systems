@@ -7,13 +7,33 @@
       "rewrote": false,
       "filename": "Why_every_developer_needs_to_learn_prompt_engineer_linkedin_post",
       "post_preview": "**The future of development is writing a new script - yours**\n\nIn the next five years, the skills th..."
+    },
+    {
+      "topic": "How AI is changing software engineering in 2025",
+      "timestamp": "2026-04-10T21:05:27.487118",
+      "score": 72,
+      "rewrote": false,
+      "filename": "How_AI_is_changing_software_engineering_in_2025_linkedin_post",
+      "post_preview": "**The Future of Code: AI-Powered Collaboration Arrives**\n\nBy 2028, 90% of enterprise software engine..."
+    },
+    {
+      "topic": "How AI is changing software engineering in 2025",
+      "timestamp": "2026-04-10T21:21:20.239544",
+      "score": 85,
+      "rewrote": false,
+      "filename": "How_AI_is_changing_software_engineering_in_2025_linkedin_post",
+      "post_preview": "**The AI Revolution in Software Engineering: 3 Key Takeaways for 2025**\n\nAs we head into 2026, it's ..."
     }
   ],
   "topic_scores": {
     "Why every developer needs to learn prompt engineering": {
       "best_score": 72,
       "runs": 1
+    },
+    "How AI is changing software engineering in 2025": {
+      "best_score": 85,
+      "runs": 2
     }
   },
-  "total_runs": 1
+  "total_runs": 3
 }
