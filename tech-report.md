@@ -1,7 +1,6 @@
 # Technical Report: ThoughtLeader AI
 ### Agentic LinkedIn & Tech Blog Content Pipeline
-**IS 7200 — Building Agentic Systems | Northeastern University**
-**Author: Param Shah | Date: April 2026**
+
 
 ---
 

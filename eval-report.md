@@ -1,6 +1,4 @@
 # Evaluation Report: ThoughtLeader AI
-### IS 7200 — Building Agentic Systems | Northeastern University
-**Author: Param Shah | Date: April 2026**
 
 ---
 
